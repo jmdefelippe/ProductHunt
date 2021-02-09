@@ -1,0 +1,5 @@
+Firebase:
+https://product-hunt-6af31.web.app/
+
+Netlify:
+https://elegant-knuth-130fa3.netlify.app/
